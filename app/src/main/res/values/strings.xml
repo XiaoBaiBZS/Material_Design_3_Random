@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MD3</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications" translatable="false">Notifications</string>
+    <string name="home">Home</string>
+    <string name="begin">Begin</string>
+    <string name="todo" translatable="false">TODO</string>
+    <string name="click_button_to_begin">Click Button to Begin</string>
+    <string name="Add">添加</string>
+</resources>
